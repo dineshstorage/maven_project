@@ -1,0 +1,5 @@
+---
+-hosts: webservers
+ remote_user:
+ sudo: yes
+ -tasks:
